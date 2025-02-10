@@ -26,7 +26,7 @@ Installation instuctions are to be added.
 
 ### :writing_hand: Written by
 
-- [Ludovic De Matteis](https://ludovicdematteis.github.io/), LAAS-CNRS :fr:
-- Virgile Batto, LAAS-CNRS :fr:
+- [XXXXX](https://XXXXX.github.io/), XXXXX :fr:
+- XXXXX, XXXXX :fr:
 
 ### :construction_worker: With contributions from

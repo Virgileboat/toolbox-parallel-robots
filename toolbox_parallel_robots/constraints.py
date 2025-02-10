@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Nicolas MANSARD - Virgile BATTO & Ludovic DE MATTEIS - February 2024
+Nicolas MANSARD - XXXXX & XXXXX - February 2024
 
 Tool functions to compute the constraints residuals from a robot constraint model.
 """

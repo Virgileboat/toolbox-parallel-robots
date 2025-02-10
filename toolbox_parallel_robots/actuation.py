@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Virgile BATTO & Ludovic DE MATTEIS - February 2024
+XXXXX & XXXXX - February 2024
 
 This module provides tools to merge and split configuration into actuated and non-actuated parts.
 It also contains tools to freeze joints from a model.

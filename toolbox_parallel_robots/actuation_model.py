@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Virgile Batto & Ludovic De Matteis - September 2023
+XXXXX & XXXXX - September 2023
 
 Define an actuation model, usefull for closed kinematic loops robot or underactuated robots.
 """

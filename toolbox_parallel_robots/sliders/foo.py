@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Ludovic DE MATTEIS - May 2023
+XXXXX - May 2023
 
 Create a Tkinter interface to move some joints in the robots while satisfying the desired closed loop constraints
 

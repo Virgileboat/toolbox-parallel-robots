@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Virgile BATTO & Ludovic DE MATTEIS - February 2024
+XXXXX & XXXXX - February 2024
 
 This module provides tools to perform the forward kinematics of a closed-loop system.
 """

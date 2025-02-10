@@ -167,4 +167,4 @@ def renameConstraints(robot):
         cm.name = f"{robot.model.names[cm.joint1_id]},{robot.model.names[cm.joint2_id]}"
 
 
-# Necessary to load some of the robot Virgile created and that are not in example robot data
+# Necessary to load some of the robot XXXXX created and that are not in example robot data

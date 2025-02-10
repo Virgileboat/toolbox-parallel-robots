@@ -3,12 +3,12 @@
   <name>toolbox-parallel-robots</name>
   <version>0.0.1</version>
   <description>Set of tools to work with robots with bilateral constraints</description>
-  <author email="vbatto@laas.fr">Virgile Batto</author>
-  <author email="ldematteis@laas.fr">Ludovic De Matteis</author>
-  <maintainer email="ldematteis@laas.fr">Ludovic De Matteis</maintainer>
+  <author email="XXXXX@XXXXX.XX">XXXXX</author>
+  <author email="XXXXX@XXXXX.XX">XXXXX</author>
+  <maintainer email="XXXXX@XXXXX.XX">XXXXX</maintainer>
   <license>BSD</license>
 
-  <url type="repository">https://gitlab.laas.fr/ldematteis/example-parallel-robots</url>
+  <url type="repository">https://gitlab.XXXXX.XX/XXXXX/example-parallel-robots</url>
 
   <build_depend>git</build_depend>
   <depend>python3</depend>

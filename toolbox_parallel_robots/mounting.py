@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Virgile Batto & Ludovic De Matteis - September 2023
+XXXXX & XXXXX - September 2023
 
 Tools to mount a robot model, i.e. get a configuration that satisfies all contraints (both robot-robot constraints and robot-environment constraints)
 Contains three methods to solve this problem, methode selection is done by setting global variables or through imports

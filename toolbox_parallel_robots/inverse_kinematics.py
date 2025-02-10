@@ -1,6 +1,6 @@
 """
 -*- coding: utf-8 -*-
-Ludovic DE MATTEIS & Virgile BATTO, February 2024
+XXXXX & XXXXX, February 2024
 
 Tools to compute the inverse kinematics of a closed loop system.
 """
@@ -260,7 +260,7 @@ def closedLoopInverseKinematicsProximal(
         The problem is solved using the proximal method.
 
         Initially written by Justin Carpentier.
-        Raw code available here (L84-126): https://gitlab.inria.fr/jucarpen/pinocchio/-/blob/pinocchio-3x/examples/simulation-closed-kinematic-chains.py
+        Raw code available here (L84-126): https://gitlab.XXXXX.XX/jucarpen/pinocchio/-/blob/pinocchio-3x/examples/simulation-closed-kinematic-chains.py
     """
 
     model = rmodel.copy()
